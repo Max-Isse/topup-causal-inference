@@ -101,7 +101,7 @@ python run_all.py          # about 30 seconds; regenerates figures/ and results/
 python tests/test_core.py  # 6 checks against known answers
 ```
 
-Developed with Python 3.13, numpy 2.5.3, scipy 1.18.1 and matplotlib 3.11.2.
+Developed with Python 3.11.15, numpy 2.2.6, scipy 1.13.1 and matplotlib 3.10.9.
 
 ## Layout
 
